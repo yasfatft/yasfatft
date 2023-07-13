@@ -6,8 +6,8 @@
 Experienced Software Engineer & DevOps Enthusiast | CS (Computer Science) graduate from <a href="https://aut.ac.ir/en">Polytechnic University of Tehran (AmirKabir)</a> | Generally a Pythoneer
 </p>
 <p>
-I believe my most outstanding features are a very high learning curve & fast adoption (into tools, situations & persons); also a huge appetite for learning unknowns & challenging myself in the area of those unknowns; kinda obsessed (not in a bad way of course) with trying to operate better, faster & easier, at every chance! It makes me sad to redo a can-be-automated task (not limited to tech-related activities).
-It's harmless to mention that there are some other fields like Artificial Intelligence, Data Science, ML, DL & NN that I admire & have an interest in.
+Since 2019 I have been practicing Software Engineering, in multiple organizations; experienced & comfortable interacting with git, Docker, Linux, Bash Scripts, gRPC, Flask, Django & et cetra. My most outstanding features are a very high learning curve & fast adoption (into tools, situations & persons); also it came to my attention that I have a huge appetite for learning unknowns & challenging myself in the area of those unknowns; kinda obsessed (not in a bad way of course) with trying to operate better, faster & easier, at every chance! It makes me sad to redo a can-be-automated task (not limited to tech-related activities).
+It's harmless to mention that there are some other fields that I admire & have an interest in; DevOps is my favorite field to grow in at the moment by far (throughout my activities from 2019, sometimes there were some DevOps tasks needed to be done on-demand & always I was the one to volunteer, due to my abilities to get well done unseen-before tasks; so that's were my passion comes from); and off the road artificial Intelligence, Data Science, ML, DL & NN.  
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasfatft&label=Profile%20views&color=0e75b6&style=flat" alt="yasfatft" /></p>
